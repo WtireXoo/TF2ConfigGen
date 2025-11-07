@@ -19,6 +19,10 @@
 - However, i still suggest you to use "Windows 11" or "Windows 10" not any modded versions.
 - This tool does **NOT** support linux, it purely works mostly on the windows api in c++.
 
+# How to use
+- Click on releases, and from there download the exe file.
+- Run it as expected; And then you should know what to do by yourself.
+
 # Images
 
 <img width="857" height="499" alt="image" src="https://github.com/user-attachments/assets/76b33ec1-f38a-4c9a-8d53-8e4e3579dfb6" />
